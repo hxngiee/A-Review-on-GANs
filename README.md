@@ -11,4 +11,4 @@ Generative Adversarial Networks paper review, code implementation and compare re
 
 **[3] compare result:** https://github.com/kwotsin/mimicry
 
-**[4] Synchronized BatchNorm:** https://github.com/vacancy/Synchronized-BatchNorm-PyTorch
+**[4] 수식 위주 기초 논문 스터디:** https://github.com/seharanul17/davian_gan_study_2020
