@@ -1,8 +1,12 @@
 ## A-Review-on-GANs
 Generative Adversarial Networks paper review, code implementation and compare result
 
-
 ### Image Generation
+
+* End-to-End Object Detection with Transformers (ECCV 2020)
+    * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF]() / Code Practice
+    
+### Image-to-Image Translation
 
 * End-to-End Object Detection with Transformers (ECCV 2020)
     * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF]() / Code Practice
